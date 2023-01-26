@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Browser Exploitation
 - 💞️ I’m looking to collaborate on Security Projects
-- 📫 How to reach me jasonvaf@gmail.com
+- 📫 How to reach me ---if you don't know you don't need to know----
 
 <!---
 e-Euler/e-Euler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
