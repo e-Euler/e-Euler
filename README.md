@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-Euler
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Browser Exploitation
+- 🌱 I’m currently learning ... who learns one thing at a time...
 - 💞️ I’m looking to collaborate on Security Projects
 - 📫 How to reach me ---if you don't know you don't need to know----
 
